@@ -13,6 +13,10 @@ nav:
 
   - Prestação de Contas:
     - PDDA: prestacao-contas/example.md
+    - Ofícios e Memorandos: prestacao-contas/oficios-e-memorandos.md
+    - Contas Bancárias: prestacao-contas/contas-bancarias.md
+    - Programa: prestacao-contas/programa.md
+    - Fornecedores: prestacao-contas/fornecedores.md
 
 theme:
   name: material
