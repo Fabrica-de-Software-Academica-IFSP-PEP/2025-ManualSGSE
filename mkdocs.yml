@@ -16,13 +16,13 @@ nav:
         - Geral: prestacao-contas/PDDE/PDDE.md
         - Cadastrar PDDE: prestacao-contas/PDDE/criarPDDE.md
         - Pesquisa de Preço:
-          - Criar Pesquisa de Preço: prestacao-contas\PDDE\pesquisa-preco\criarPesquisa.md
-          - Realizar Pesquisa de Preço: prestacao-contas\PDDE\pesquisa-preco\realizarPesquisa.md
-          - Consolidar Pesquisa de Preço: prestacao-contas\PDDE\pesquisa-preco\consolidacaoPesquisa.md
+          - Criar Pesquisa de Preço: prestacao-contas/PDDE/pesquisa-preco/criarPesquisa.md
+          - Realizar Pesquisa de Preço: prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa.md
+          - Consolidar Pesquisa de Preço: prestacao-contas/PDDE/pesquisa-preco/consolidacaoPesquisa.md
     - APM:
-      - Geral:  prestacao-contas\APM\geral.md
-      - Atualizar Vigência: prestacao-contas\APM\atualizarVigencia.md
-      - Atas : prestacao-contas\APM\atas.md
+      - Geral:  prestacao-contas/APM/geral.md
+      - Atualizar Vigência: prestacao-contas/APM/atualizarVigencia.md
+      - Atas : prestacao-contas/APM/atas.md
     - Ofícios e Memorandos: prestacao-contas/oficios-e-memorandos.md
     - Contas Bancárias: prestacao-contas/contas-bancarias.md
     - Programa: prestacao-contas/programa.md
