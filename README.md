@@ -68,11 +68,11 @@ Agora, ative o ambiente:
 
 Caso esteja usando o **PowerShell**:
 ```cmd
-.\env\Scripts\Activate.ps1
+.\venv\Scripts\Activate.ps1
 ```
 Ou caso esteja usando o **CMD**:
 ```cmd
-.\env\Scripts\Activate.bat
+.\venv\Scripts\Activate.bat
 ```
 
 > ⚠️ Caso houver um erro. 
