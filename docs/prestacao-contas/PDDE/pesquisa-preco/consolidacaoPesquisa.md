@@ -1,7 +1,7 @@
 <p align="justify"> 
 Após a realização da pesquisa de preços, é possível consolidá-la. Consolidar uma pesquisa de preços significa selecionar as melhores propostas de cada proponente para cada item, gerar os documentos correspondentes e adicionar as notas fiscais. 
 <br><br>
-Caso a pesquisa de preços já tenha sido realizada, clique no botão <strong>"Consolidar"</strong>. Se ainda não foi realizada, acesse a sessão <strong>Realizar Pesquisa de Preço</strong> clicando <a href="../realizarPesquisa/">aqui</a>.
+Caso a pesquisa de preços já tenha sido realizada, clique no botão <strong>"Consolidar"</strong>. Se ainda não foi realizada, acesse a sessão <strong>Realizar Pesquisa de Preço</strong> clicando <a href="/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>.
 </p>
 
 <figure style="margin: 0.5em 0;">

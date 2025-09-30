@@ -5,8 +5,8 @@ Esse botão lhe direcionará para a tela de cadastro de pesquisa de preço, que 
 
 
 <p align="justify">
-Se ainda não sabe como criar um PDDE, consulte a página 
-<a href="../../criar-pdde/criarPDDE/">Como criar um PDDE</a>.
+Se ainda não sabe como criar um PDDE, consulte a página de cadastrar PDDE clicando
+<a href="/prestacao-contas/PDDE/criarPDDE/">aqui</a>.
 </p>
 
 <figure>
@@ -21,7 +21,7 @@ Após ser direcionado a nova tela, siga os seguintes passos:
 
 <ol>
   <li>
-    Cadastre um programa. Um programa pode ser cadastrado no botão <strong>"Cadastrar Programa"</strong>. Para mais informações sobre cadastro de um programa, <a href="#">clique aqui.</a>
+    Cadastre um programa. Um programa pode ser cadastrado no botão <strong>"Cadastrar Programa"</strong>. Para mais informações sobre os programas, clique <a href="/prestacao-contas/contas-bancarias/">aqui.</a>
     <figure>
       <img src="/img/pc/PDDE/criar-pesquisa/BotaoPrograma.png" style="border: 2px solid black;">
       <figcaption>Figura 2: Botão Cadastrar Programa.</figcaption>
@@ -49,5 +49,5 @@ Após ser direcionado a nova tela, siga os seguintes passos:
 <p align="justify">
 Após o preenchimento dos dados, clique no botão <strong>"Confirmar"</strong>. 
 Se os dados estiverem corretos, o sistema direcionará o usuário para a tela de pesquisa de preço. 
-Para saber mais sobre como realizar uma pesquisa de preço, clique <a href="#">aqui</a>.
+Para saber mais sobre como realizar uma pesquisa de preço, clique <a href="/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>.
 </p>

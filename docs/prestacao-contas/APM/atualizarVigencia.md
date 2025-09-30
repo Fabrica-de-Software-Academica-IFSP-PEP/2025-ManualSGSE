@@ -37,7 +37,7 @@ Para adicionar um novo membro, clique em <strong>Cadastrar Membro da APM</strong
 </figure>
 
 <blockquote style="margin: 1em 0;">
-      <strong>Observação:</strong>Caso o novo membro já esteja previamente cadastrado no sistema, após inserir o CPF, seus dados serão retornados.
+      <strong>Observação:</strong> caso o novo membro já esteja previamente cadastrado no sistema, após inserir o CPF, seus dados serão retornados.
 </blockquote>
 
 <p align="justify">

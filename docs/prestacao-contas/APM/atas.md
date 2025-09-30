@@ -1,6 +1,10 @@
 <p align="justify">
-As atas desempenham papel central na formalização das decisões e reuniões da Associação de Pais e Mestres (APM), garantindo transparência e organização documental. Na tela <strong>"Atas"</strong> (Figura 1), é possível acessá-las, bem como criar, editar, visualizar, excluir e exportá-las.
+As atas desempenham papel central na formalização das decisões e reuniões da Associação de Pais e Mestres (APM), garantindo transparência e organização documental.
+
+<br><br>
+Na tela <strong>"Atas"</strong> no menu principal, é possível acessá-las, bem como criar, editar, visualizar, excluir e exportá-las.
 </p>
+
 
 
 <figure style="margin: 0.5em 0;">
@@ -8,6 +12,8 @@ As atas desempenham papel central na formalização das decisões e reuniões da
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Atas.</figcaption>
 </figure>
 
+
+**Criar uma Ata**
 <p align="justify">
 Para criar uma ata, clique em <strong>"Cadastrar Ata"</strong> e preencha os campos.
 O campo <strong>"Modo"</strong> define a forma como a ata será inserida no sistema, que pode ser feita de duas maneiras:
@@ -15,10 +21,10 @@ O campo <strong>"Modo"</strong> define a forma como a ata será inserida no sist
 
 <ol align="justify">
     <li>
-        <strong>Anexar Ata:</strong> ao selecionar este modo, o usuário deve anexar um arquivo de ata salvo em seu computador (Figura 1).
+        <strong>Anexar Ata:</strong> ao selecionar este modo, o usuário deve anexar um arquivo de ata salvo em seu computador (Figura 2).
     </li>
     <li>
-        <strong>Escrever Ata:</strong> nesse modo, o sistema permite que o usuário redija a ata diretamente na própria plataforma (Figura 2).
+        <strong>Escrever Ata:</strong> nesse modo, o sistema permite que o usuário redija a ata diretamente na própria plataforma (Figura 3).
     </li>
 </ol>
 

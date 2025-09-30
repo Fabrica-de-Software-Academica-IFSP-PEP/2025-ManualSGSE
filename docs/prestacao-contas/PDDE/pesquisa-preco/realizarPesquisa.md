@@ -82,5 +82,5 @@ Nesta sessão, será orientado quanto à realização da pesquisa de preço. Cas
 </ol>
 
 <p align="justify">
-Após a inserção de todos os itens e valores necessários, a pesquisa de preço pode, caso tudo esteja em conformes, ser consolidada. Para mais informações sobre consolidação de pesquisa de preço, clique <a href="../consolidacaoPesquisa/">aqui</a>.
+Após a inserção de todos os itens e valores necessários, a pesquisa de preço pode, caso tudo esteja em conformes, ser consolidada. Para mais informações sobre consolidação de pesquisa de preço, clique <a href="/prestacao-contas/PDDE/pesquisa-preco/consolidacaoPesquisa/">aqui</a>.
 </p>
