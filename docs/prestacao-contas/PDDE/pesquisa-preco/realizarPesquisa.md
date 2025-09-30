@@ -15,7 +15,7 @@ Nesta sessão, será orientado quanto à realização da pesquisa de preço. Cas
 
     <blockquote style="margin: 1em 0;">
       <strong>Observação:</strong> Caso o fornecedor já esteja cadastrado, basta digitar o CPF ou CNPJ; os demais campos serão preenchidos automaticamente. 
-      Para mais informações sobre o cadastro do fornecedor, clique <a href="#">aqui</a>.
+      Para mais informações sobre o cadastro do fornecedor, clique <a href="/prestacao-contas/fornecedores/">aqui</a>.
     </blockquote>
 
     <figure style="margin: 1em 0;">
