@@ -7,12 +7,12 @@ Para atualizar a vigência manualmente, clique em <strong>Atualizar Vigência</s
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/atualizar-vigencia/TelaAPM.png" style="border: 2px solid black;">
+    <img src="../../img/pc/apm/atualizar-vigencia/TelaAPM.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Botão Atualizar Vigência</figcaption>
 </figure>
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/atualizar-vigencia/NotificacaoAtt.png" style="border: 2px solid black;">
+    <img src="../../img/pc/apm/atualizar-vigencia/NotificacaoAtt.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Notificação de Vencimento de Vigência</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ Em ambos os casos, o usuário será direcionado para a tela de atualização de 
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/atualizar-vigencia/TelaAtualizarVigencia.png" style="border: 2px solid black;">
+    <img src="../../img/pc/apm/atualizar-vigencia/TelaAtualizarVigencia.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 3: Tela Atualização de Vigência.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Para adicionar um novo membro, clique em <strong>Cadastrar Membro da APM</strong
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/atualizar-vigencia/DadosNovoMembro.png">
+    <img src="../../img/pc/apm/atualizar-vigencia/DadosNovoMembro.png">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 4: Adicionar novo membro à APM.</figcaption>
 </figure>
 
@@ -45,7 +45,8 @@ Após finalizar a atualização, clique em <strong>"Atualizar Vigência"</strong
 </p> 
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/atualizar-vigencia/DialogAtualizar.png">
+    <img src="../../img/pc/apm/atualizar-vigencia/DialogAtualizar.png">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 4: Adicionar novo membro à APM.</figcaption>
 </figure>
+
 
