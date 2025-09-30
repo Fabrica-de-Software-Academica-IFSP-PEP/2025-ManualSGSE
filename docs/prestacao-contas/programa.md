@@ -1,28 +1,32 @@
-# Programa
+<p align="justify">
+Os programas vinculados ao PDDE desempenham papel central na aplicação dos recursos, direcionando investimentos para áreas específicas da escola. Eles asseguram organização, transparência e melhor aproveitamento dos recursos financeiros.
 
-**Localização:** Menu principal → **Prestação de Contas** → **Programa**  
+<br><br>
+Para acessá-los clique em <strong>"Programas"</strong> no menu principal. Nesta tela, é possível adicionar, editar, visualizar e excluir Programas.
+</p>
 
-## Visão geral
-Nesta página você cadastra e gerencia os programas vinculados à prestação de contas (ex.: programas PDDE, etc.).
+<figure style="margin: 0.5em 0;">
+    <img src="/img/pc/programa/TelaInicial.png"  style="border: 2px solid black;">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Programas</figcaption>
+</figure>
 
-## Ações principais
-- **Cadastrar Programa** — abre o formulário para criação.
-- Botões de linha: **Editar**, **Excluir**, **Detalhar**.
-- Campos principais: **PDDE**, **Nome do Programa**, **Status do Programa**.
+**Cadastrar Programa**
 
----
-## 1) Como cadastrar um novo Programa
-1. Clique em **Cadastrar Programa** (barra superior).  
-   ![Image 1](../img/pc/programa/1.png)
-2. No formulário preencha:
-   - **PDDE** — selecione o PDDE associado.
-   - **Nome do Programa** — nome descritivo (ex.: `Programa de Alimentação Escolar`).
-   - **Status do Programa** — ativo / inativo.
-   ![Image 2](../img/pc/programa/2.png)
-3. Clique em **Confirmar** (botão do diálogo) para salvar.
+<p align="justify">
+Para cadastrar um programa, clique em <strong>"Cadastrar Programa"</strong> e preencha os campos solicitados:
+</p>
 
----
-## 2) Como editar / excluir
-- **Editar**: clique em **Editar** na linha desejada, altere os dados e clique em **Confirmar**.  
-- **Excluir**: clique em **Excluir** e confirme a ação com **Confirmar** no diálogo de confirmação.
+<ul align="justify">
+  <li><strong>PDDE:</strong> selecione o PDDE ao qual deseja vincular o novo programa.</li>
+  <li><strong>Nome do Programa:</strong> insira o título do programa.</li>
+  <li><strong>Status do Programa:</strong> indique se o programa está ativo ou inativo.</li>
+</ul>
 
+<figure style="margin: 0.5em 0;">
+    <img src="/img/pc/programa/CadastrarPrograma.png">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Cadastrar Programa</figcaption>
+</figure>
+
+<p align="justify">
+Por fim, após o cadastro, o programa poderá ser utilizado em uma pesquisa de preço vinculada a um PDDE.
+</p>

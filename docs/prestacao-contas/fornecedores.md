@@ -1,34 +1,28 @@
-# Fornecedores
+<p align="justify">
+Os fornecedores são responsáveis por fornecer bens e serviços adquiridos pela APM, sendo selecionados após pesquisa de preços e análise de propostas, atendendo às exigências legais e garantindo transparência nas aquisições escolares.
 
-**Localização:** Menu principal → **Prestação de Contas** → **Fornecedores**  
+<br><br>
 
-## Visão geral
-Tela para cadastrar e gerenciar fornecedores: dados cadastrais, contato, endereço, documentos (CNPJ/CPF), telefone e e‑mail.
+Para acessá-los clique em <strong>"Fornecedores"</strong> no menu principal. Nesta tela, é possível adicionar, editar, visualizar e excluir fornecedores.
+</p>
 
-## Ações principais
-- **Novo Fornecedor** — abre formulário de cadastro/edição.
-- Pesquisa (`pesquisar por nome, cpf, cnpj, e-mail...`) — filtra a lista.
-- Ações de linha: **Detalhar**, **Editar**, **Excluir**.
 
----
-## 1) Como cadastrar um novo fornecedor
-1. Clique em **Novo Fornecedor** (barra superior).  
-   ![Image 1](../img/pc/fornecedores/1.png)
-2. Preencha os campos do formulário (principais):
-   - **CNPJ / CPF** — digite o CNPJ ou CPF (sem `.` ou `/` apenas números).
-   - **Razão Social** — nome completo legal da empresa.
-   - **Nome Fantasia** — nome comercial.
-   - **Endereço / Cidade** — preencha endereço e cidade do fornecedor.
-   - **Responsável** — nome da pessoa de contato.
-   - **Telefone** — telefone de contato.
-   - **Email** — e‑mail para contato.
-   - **Status do Fornecedor** — ativo / inativo.
-   ![Image 2](../img/pc/fornecedores/2.png)
-3. Clique em **Confirmar** para salvar o fornecedor no sistema.
+<figure style="margin: 0.5em 0;">
+    <img src="/img/pc/fornecedores/TelaInicial.png" style="border: 2px solid black;">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Fornecedores</figcaption>
+</figure>
 
----
-## 2) Como editar, detalhar e excluir
-- **Detalhar**: abre a visão somente leitura com botão **Cancelar** para fechar.
-- **Editar**: abre o formulário em modo edição; altere o que for necessário e clique em **Confirmar**.
-- **Excluir**: clique em **Excluir** na linha e confirme em **Confirmar** no diálogo de exclusão.
 
+**Cadastrar Fornecedor**
+<p align="justify">
+Para cadastrar um fornecedor, clique em <strong>"Cadastrar Fornecedor"</strong> e preencha os campos solicitados.
+</p>
+
+<figure style="margin: 0.5em 0;">
+    <img src="/img/pc/fornecedores/CadastrarFornecedor.png">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Dialog Cadastrar Fornecedor.</figcaption>
+</figure>
+
+<p align="justify">
+Por fim, após o cadastro do fornecedor, ele poderá ser associado a uma pesquisa de preço. Para mais informações sobre pesquisas de preços, clique <a href="/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>
+</p>
