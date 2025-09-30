@@ -8,7 +8,7 @@ Para acessá-los clique em <strong>"Fornecedores"</strong> no menu principal. Ne
 
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/fornecedores/TelaInicial.png" style="border: 2px solid black;">
+    <img src="../img/pc/fornecedores/TelaInicial.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Fornecedores</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ Para cadastrar um fornecedor, clique em <strong>"Cadastrar Fornecedor"</strong> 
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/fornecedores/CadastrarFornecedor.png">
+    <img src="../img/pc/fornecedores/CadastrarFornecedor.png">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Dialog Cadastrar Fornecedor.</figcaption>
 </figure>
 
