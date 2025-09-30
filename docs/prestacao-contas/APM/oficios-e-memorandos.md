@@ -7,7 +7,7 @@ Na tela <strong>"Ofícios e Memorandos"</strong>, é possível acessá-los, bem 
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/oficios-memorandos/TelaInicial.png" style="border: 2px solid black;">
+    <img src="../../img/pc/apm/oficios-memorandos/TelaInicial.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Ofícios e Memorandos.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Para criar um Ofício ou Memorando, clique em <strong>"Novo Ofício/Memorando"</
 
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/oficios-memorandos/Inserir.png">
+    <img src="../../img/pc/apm/oficios-memorandos/Inserir.png">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Inserir Ofício ou Memorando.</figcaption>
 </figure>
 
