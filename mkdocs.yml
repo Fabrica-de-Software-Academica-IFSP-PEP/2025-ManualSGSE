@@ -3,10 +3,18 @@ nav:
   - Home: index.md
 
   - Supervisor:
-    - Gerenciar servidores: supervisor/example.md
+    - Servidores: supervisor/gerenciar-servidores.md
+    - Tipos de Abonos: supervisor/gerenciar-tipos-de-abono.md
+    - Categoria de Certificado: supervisor/gerenciar-categorias-certificado.md
+    - Configurações de Ano Letivo: supervisor/configuracoes-ano-letivo.md
 
-  - Gestão de Docentes: 
-    - Gerenciar Ocorrências: gestao-docentes/gerenciar-ocorrencias.md
+  - Gestão de Docentes:
+    - Ocorrências: gestao-docentes/gerenciar-ocorrencias.md
+    - Títulos: gestao-docentes/gerenciar-titulos.md
+    - Pontuações: gestao-docentes/gerenciar-pontuacoes.md
+    - Tabelas de Vencimento: gestao-docentes/tabela-de-vencimento.md
+    - Quinquênio: gestao-docentes/quinquenio.md
+    - Classificação de Atribuição de Aulas: gestao-docentes/classificacao.md
 
   - Gestão Escolar:
     - Turmas: gestao-escolar/example.md
