@@ -1,7 +1,7 @@
 <p align="justify"> O armazenamento de documentos no sistema garante a preservação, a segurança e a organização dos registros da APM, facilitando consultas, auditorias e a prestação de contas conforme as exigências legais. O sistema permite que os documentos sejam armazenados digitalmente, assegurando fácil acesso e organização.
 
 <br><br>
-Para acessá-los, após ter cadastrado um PDDE, clique em <strong>"Documentos"</strong>. Caso ainda não tenha criado um PDDE, clique <a href="/prestacao-contas/PDDE/criarPDDE/W">aqui</a> para mais informações.
+Para acessá-los, após ter cadastrado um PDDE, clique em <strong>"Documentos"</strong>. Caso ainda não tenha criado um PDDE, clique <a href="/prestacao-contas/PDDE/criarPDDE/">aqui</a> para mais informações.
 </p>
 
 <figure style="margin: 0.5em 0;">
