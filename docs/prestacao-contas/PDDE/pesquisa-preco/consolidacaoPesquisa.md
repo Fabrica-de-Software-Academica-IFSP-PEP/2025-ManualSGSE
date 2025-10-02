@@ -5,7 +5,7 @@ Caso a pesquisa de preços já tenha sido realizada, clique no botão <strong>"C
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../img/pc/pdde/consolidar-pesquisa/BotaoConsolidar.png" style="border: 2px solid black;">
+    <img src="../../../img/pc/pdde/consolidar-pesquisa/BotaoConsolidar.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Botão Consolidar Pesquisa de Preço
     </figcaption>
 </figure>
@@ -31,4 +31,5 @@ Para mais informações sobre <strong>Atas</strong>, clique <a href="">aqui</a>.
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 3: Alterar melhor Proponente
     </figcaption>
 </figure>
+
 
