@@ -13,7 +13,7 @@ Após garantir o cadastro da conta bancária, siga os passos abaixo:
     Clique no botão <strong>Cadastrar PDDE</strong>:
      <br><br>
     <figure style="margin: 0.5em 0;">
-      <img src="../../img/pc/PDDE/criar-pdde/BotaoCadastrar.png" style="border: 2px solid black;">
+      <img src="../../img/pc/pdde/criar-pdde/BotaoCadastrar.png" style="border: 2px solid black;">
       <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Botão Cadastrar PDDE</figcaption>
     </figure>
   </li>
@@ -43,5 +43,6 @@ Após garantir o cadastro da conta bancária, siga os passos abaixo:
 <p align="justify">
 Por fim, após o cadastro do PDDE, poderá ser realizada a criação de pesquisas de preços. Caso queira saber mais em como criar uma pesquisa de preço, clique <a href="/prestacao-contas/PDDE/pesquisa-preco/criarPesquisa/">aqui</a>
 </p>
+
 
 
