@@ -7,6 +7,18 @@ nav:
     - Tipos de Abonos: supervisor/gerenciar-tipos-de-abono.md
     - Categoria de Certificado: supervisor/gerenciar-categorias-certificado.md
     - Configurações de Ano Letivo: supervisor/configuracoes-ano-letivo.md
+    - Escolas: 
+      - Visualizar Escolas: supervisor/escolas/visualizar-escolas.md
+      - Cadastrar Escola: supervisor/escolas/cadastrar-escola.md
+      - Editar Escola: supervisor/escolas/editar-escola.md
+      - Excluir Escola: supervisor/escolas/excluir-escola.md
+    - Séries:
+      - Visualizar Séries: supervisor/series/visualizar-series.md
+      - Cadastrar Série: supervisor/series/cadastrar-serie.md
+      - Editar Série: supervisor/series/editar-serie.md
+      - Excluir Série: supervisor/series/excluir-serie.md
+      - Ordenar Séries: supervisor/series/ordenar-series.md
+    
 
   - Gestão de Docentes:
     - Ocorrências: gestao-docentes/gerenciar-ocorrencias.md
@@ -17,7 +29,18 @@ nav:
     - Classificação de Atribuição de Aulas: gestao-docentes/classificacao.md
 
   - Gestão Escolar:
-    - Turmas: gestao-escolar/example.md
+    - Alunos: 
+      - Visualizar Alunos: gestao-escolar/alunos/visualizar-alunos.md
+      - Cadastrar Aluno: gestao-escolar/alunos/cadastrar-aluno.md 
+      - Editar Aluno: gestao-escolar/alunos/editar-aluno.md
+      - Excluir Aluno: gestao-escolar/alunos/excluir-aluno.md
+      - Realizar Matrícula: gestao-escolar/alunos/realizar-matricula.md
+      - Visualizar Respostas de Formulários: gestao-escolar/alunos/visualizar-formularios.md
+      - Visualizar ou Anexar Documentos: gestao-escolar/alunos/documentos.md
+    - Matrículas:
+      - Realizar Matrícula: gestao-escolar/matriculas/realizar-matricula.md
+    - Turmas:
+      - Visualizar Turmas: 
 
   - Prestação de Contas:
     - PDDE: 

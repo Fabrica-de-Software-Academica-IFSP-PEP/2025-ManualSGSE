@@ -1,3 +1,30 @@
-.md-footer {
-  display: none !important;
+/* Nível 1 (itens principais do menu) */
+.md-nav__item--nested > .md-nav__link {
+  font-size: 0.9rem;   
+  font-weight: 600;    
+}
+
+/* Itens principais que NÃO têm filhos (como Home) */
+.md-nav__list > .md-nav__item > .md-nav__link {
+  font-size: 0.9rem;   
+  font-weight: 600;
+}
+
+/* Nível 2 (subitens) */
+.md-nav__item .md-nav__item > .md-nav__link {
+  font-size: 0.85rem;
+  font-weight: 400;
+}
+
+/* Nível 3 (sub-subitens) */
+.md-nav__item .md-nav__item .md-nav__item > .md-nav__link {
+  font-size: 0.80rem;
+  font-weight: 300;
+}
+
+.markdown-body blockquote,
+.md-content blockquote {
+  background: #e6f3ff;
+  border-left-color: #1e90ff;
+  color: rgb(63, 56, 56);
 }
