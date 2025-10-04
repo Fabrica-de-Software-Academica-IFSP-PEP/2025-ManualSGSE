@@ -5,7 +5,7 @@ Para acessá-los, após ter cadastrado um PDDE, clique em <strong>"Documentos"</
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/PDDE/documentos/AcessarDocumentos.png">
+    <img src="../../img/pc/pdde/documentos/AcessarDocumentos.png">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Acessar Documentos PDDE</figcaption>
 </figure>
 
