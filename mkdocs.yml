@@ -40,7 +40,20 @@ nav:
     - Matrículas:
       - Realizar Matrícula: gestao-escolar/matriculas/realizar-matricula.md
     - Turmas:
-      - Visualizar Turmas: 
+      - Visualizar Turmas: gestao-escolar/turmas/visualizar-turmas.md
+      - Cadastrar Turma: gestao-escolar/turmas/cadastrar-turma.md
+      - Editar Turma: gestao-escolar/turmas/editar-turma.md
+      - Excluir Turma: gestao-escolar/turmas/excluir-turma.md
+      - Realizar Rematrícula: gestao-escolar/turmas/realizar-rematricula.md
+      - Realizar Matrícula: gestao-escolar/turmas/realizar-matricula.md
+      - Detalhar Turma: gestao-escolar/turmas/detalhar-turma.md
+    - Relatórios: 
+      - Alunos por Bairro: gestao-escolar/relatorios/alunos-bairro.md
+      - Beneficiários do Bolsa Família: gestao-escolar/relatorios/beneficiarios.md
+      - Distribuição Racial: gestao-escolar/relatorios/distribuicao-racial.md
+      - Meninos e Meninas: gestao-escolar/relatorios/meninos-meninas.md
+      - Nível de Conhecimento: gestao-escolar/relatorios/nivel-conhecimento.md
+      - Transporte Escolar: gestao-escolar/relatorios/transporte-escolar.md
 
   - Prestação de Contas:
     - PDDE: 
