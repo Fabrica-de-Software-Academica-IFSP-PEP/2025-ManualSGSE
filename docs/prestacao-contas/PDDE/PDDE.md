@@ -15,8 +15,9 @@ No sistema, usuários com perfil de <strong>Diretor</strong> poderão realizar o
 </ul>  
 <br>
 <figure>
-  <img src="/img/pc/PDDE/geral/TelaInicial.png" style="border: 2px solid black;">
+  <img src="../..//img/pc/pdde/geral/TelaInicial.png" style="border: 2px solid black;">
   <figcaption>Figura 1: Tela Inicial PDDE</figcaption>
 </figure>
+
 
 
