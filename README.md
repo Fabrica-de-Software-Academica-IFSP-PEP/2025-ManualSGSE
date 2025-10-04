@@ -8,8 +8,8 @@ Markdown guia: https://www.markdownguide.org/basic-syntax/
 Clone o projeto e acesse a pasta:
 
 ```bash
-$ git clone https://github.com/Fabrica-de-Software-Academica-IFSP-PEP/2025-ManualSGSE.git
-$ cd documentacao-SGSE
+git clone https://github.com/Fabrica-de-Software-Academica-IFSP-PEP/2025-ManualSGSE.git
+cd documentacao-SGSE
 ```
 Certifique-se de ter o Python e o pip instalados:
 ```bash

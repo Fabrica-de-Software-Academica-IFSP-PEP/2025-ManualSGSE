@@ -10,7 +10,7 @@ Se ainda não sabe como criar um PDDE, consulte a página de cadastrar PDDE clic
 </p>
 
 <figure>
-    <img src="/img/pc/PDDE/criar-pesquisa/BotaoPesquisa.png" style="border: 2px solid black;">
+    <img src="../../../img/pc/pdde/criar-pesquisa/BotaoPesquisa.png" style="border: 2px solid black;">
     <figcaption>Figura 1: Botão "Pesquisa de Preço".</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ Após ser direcionado a nova tela, siga os seguintes passos:
   <li>
     Cadastre um programa. Um programa pode ser cadastrado no botão <strong>"Cadastrar Programa"</strong>. Para mais informações sobre os programas, clique <a href="/prestacao-contas/contas-bancarias/">aqui.</a>
     <figure>
-      <img src="/img/pc/PDDE/criar-pesquisa/BotaoPrograma.png" style="border: 2px solid black;">
+      <img src="../../../img/pc/pdde/criar-pesquisa/BotaoPrograma.png" style="border: 2px solid black;">
       <figcaption>Figura 2: Botão Cadastrar Programa.</figcaption>
     </figure>
   </li>
@@ -36,11 +36,11 @@ Após ser direcionado a nova tela, siga os seguintes passos:
     <li><strong>Tipo:</strong> especifique se a pesquisa de preço é de bens ou de serviços.</li>
   </ul> 
     <figure>
-      <img src="/img/pc/PDDE/criar-pesquisa/BotaoAddPesquisa.png" style="border: 2px solid black;">
+      <img src="../../../img/pc/pdde/criar-pesquisa/BotaoAddPesquisa.png" style="border: 2px solid black;">
       <figcaption>Figura 3: Botão "Cadastrar Pesquisa".</figcaption>
     </figure>
     <figure>
-      <img src="/img/pc/PDDE/criar-pesquisa/DadosPesquisa.png" style="border: 2px solid black;">
+      <img src="../../../img/pc/pdde/criar-pesquisa/DadosPesquisa.png" style="border: 2px solid black;">
       <figcaption>Figura 4: Dialog Cadastrar Pesquisa de Preço.</figcaption>
     </figure>
   </li>
@@ -51,3 +51,4 @@ Após o preenchimento dos dados, clique no botão <strong>"Confirmar"</strong>.
 Se os dados estiverem corretos, o sistema direcionará o usuário para a tela de pesquisa de preço. 
 Para saber mais sobre como realizar uma pesquisa de preço, clique <a href="/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>.
 </p>
+
