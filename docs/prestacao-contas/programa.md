@@ -6,7 +6,7 @@ Para acessá-los clique em <strong>"Programas"</strong> no menu principal. Nesta
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../../img/pc/programa/TelaInicial.png"  style="border: 2px solid black;">
+    <img src="../../img/pc/programa/TelaInicial.png"  style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Programas</figcaption>
 </figure>
 

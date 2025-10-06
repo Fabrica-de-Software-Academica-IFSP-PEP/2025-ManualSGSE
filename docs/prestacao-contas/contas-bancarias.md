@@ -6,7 +6,7 @@ Para acessá-las clique em <strong>"Contas Bancárias"</strong> no menu principa
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../../img/pc/contas-bancarias/TelaInicial.png" style="border: 2px solid black;">
+    <img src="../../img/pc/contas-bancarias/TelaInicial.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Contas Bancárias.</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ Para cadastrar uma conta bancária, clique em <strong>"Cadastrar Conta Bancária
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../../img/pc/contas-bancarias/CadastrarConta.png">
+    <img src="../../img/pc/contas-bancarias/CadastrarConta.png">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Cadastrar Conta Bancária.</figcaption>
 </figure>
 
