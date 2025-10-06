@@ -54,6 +54,16 @@ nav:
       - Meninos e Meninas: gestao-escolar/relatorios/meninos-meninas.md
       - Nível de Conhecimento: gestao-escolar/relatorios/nivel-conhecimento.md
       - Transporte Escolar: gestao-escolar/relatorios/transporte-escolar.md
+    - Calendário Acadêmico: 
+      - Acessar Calendário Acadêmico: gestao-escolar/calendario/calendario.md
+    - Formulários:
+      - Visualizar Formulários: gestao-escolar/formularios/visualizar-formularios.md
+      - Cadastrar Formulário: gestao-escolar/formularios/cadastrar-formulario.md
+      - Editar Formulário: gestao-escolar/formularios/editar-formulario.md
+      - Excluir Formulário: gestao-escolar/formularios/excluir-formulario.md
+      - Detalhar Formulário: gestao-escolar/formularios/detalhar-formulario.md
+      - Visualizar Respostas: gestao-escolar/formularios/visualizar-respostas.md
+
 
   - Prestação de Contas:
     - PDDE: 
