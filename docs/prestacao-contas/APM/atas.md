@@ -8,7 +8,7 @@ Na tela <strong>"Atas"</strong> no menu principal, é possível acessá-las, bem
 
 
 <figure style="margin: 0.5em 0;">
-    <img src="/img/pc/apm/atas/TelaAtas.png" style="border: 2px solid black;">
+    <img src="../../../img/pc/apm/atas/TelaAtas.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Atas.</figcaption>
 </figure>
 
@@ -53,5 +53,6 @@ Para exportar as atas, selecione o ano desejado no campo <strong>"Ano"</strong> 
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 4: Exportar Atas.</figcaption>
 
 </figure>
+
 
 
