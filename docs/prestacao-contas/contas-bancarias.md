@@ -30,6 +30,6 @@ Para cadastrar uma conta bancária, clique em <strong>"Cadastrar Conta Bancária
 <br>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../../img/pc/contas-bancarias/EditarConta.png"  style="border: 2px solid black;">
+    <img src="../../img/pc/contas-bancarias/EditarConta.png"  style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 3: Desativar Conta Bancária</figcaption>
 </figure>
