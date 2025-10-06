@@ -6,7 +6,7 @@ Para acessá-los clique em <strong>"Programas"</strong> no menu principal. Nesta
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../img/pc/programa/TelaInicial.png"  style="border: 2px solid black;">
+    <img src="../../../img/pc/programa/TelaInicial.png"  style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Programas</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ Para cadastrar um programa, clique em <strong>"Cadastrar Programa"</strong> e pr
 </ul>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../img/pc/programa/CadastrarPrograma.png">
+    <img src="../../../img/pc/programa/CadastrarPrograma.png">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Cadastrar Programa</figcaption>
 </figure>
 
