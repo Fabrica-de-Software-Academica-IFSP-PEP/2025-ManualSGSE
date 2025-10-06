@@ -105,6 +105,10 @@ theme:
   favicon: images/favicon.png
   language: pt
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 plugins:
   - search
   - glightbox
