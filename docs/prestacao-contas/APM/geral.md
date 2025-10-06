@@ -11,8 +11,9 @@ Dessa forma, o sistema garante que a gestão e atualização dos dados da APM fi
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../img/pc/apm/geral/TelaAPM.png" style="border: 2px solid black;">
+    <img src="../../../img/pc/apm/geral/TelaAPM.png" style="border: 2px solid black;">
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela APM
     </figcaption>
 
 </figure>
+
