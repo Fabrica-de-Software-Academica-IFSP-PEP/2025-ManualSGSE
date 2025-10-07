@@ -1,7 +1,7 @@
 <p align="justify"> 
 Após a realização da pesquisa de preços, é possível consolidá-la. Consolidar uma pesquisa de preços significa selecionar as melhores propostas de cada proponente para cada item, gerar os documentos correspondentes e adicionar as notas fiscais. 
 <br><br>
-Caso a pesquisa de preços já tenha sido realizada, clique no botão <strong>"Consolidar"</strong>. Se ainda não foi realizada, acesse a seção <strong>Realizar Pesquisa de Preço</strong> clicando <a href="/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>.
+Caso a pesquisa de preços já tenha sido realizada, clique no botão <strong>"Consolidar"</strong>. Se ainda não foi realizada, acesse a seção <strong>Realizar Pesquisa de Preço</strong> clicando <a href="/2025-ManualSGSE/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>.
 </p>
 
 <figure style="margin: 0.5em 0;">
@@ -23,7 +23,7 @@ Após clicar no botão <strong>"Consolidar"</strong>, será exibida uma tela mos
 <p align="justify"> Caso deseje selecionar um proponente diferente do que apresentou o menor valor, clique em <strong>"Editar"</strong>, escolha o proponente desejado e insira uma ata justificando o motivo. 
 
 <br><br>
-Para mais informações sobre <strong>Atas</strong>, clique <a href="">aqui</a>.
+Para mais informações sobre <strong>Atas</strong>, clique <a href="/2025-ManualSGSE/prestacao-contas/APM/atas/">aqui</a>.
 </p>
 
 <figure style="margin: 0.5em 0;">
@@ -32,5 +32,5 @@ Para mais informações sobre <strong>Atas</strong>, clique <a href="">aqui</a>.
     </figcaption>
 </figure>
 
-<p align="justify">Após concluir a consolidação, você poderá anexar as notas fiscais dos itens selecionados na pesquisa. Para instruções detalhadas sobre como anexar as notas fiscais, clique <a href="/prestacao-contas/pdde/pesquisa-preco/notasFiscais/">aqui</a>.
+<p align="justify">Após concluir a consolidação, você poderá anexar as notas fiscais dos itens selecionados na pesquisa. Para instruções detalhadas sobre como anexar as notas fiscais, clique <a href="/2025-ManualSGSE/prestacao-contas/PDDE/pesquisa-preco/notasFiscais/">aqui</a>.
 

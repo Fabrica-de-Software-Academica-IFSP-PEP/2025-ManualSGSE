@@ -1,4 +1,4 @@
-<p align="justify"> Nesta seção, você encontrará orientações sobre como realizar a pesquisa de preços. Caso ainda não tenha criado a pesquisa de preço, poderá obter mais informações clicando <a href="../criarPesquisa/">aqui</a>.
+<p align="justify"> Nesta seção, você encontrará orientações sobre como realizar a pesquisa de preços. Caso ainda não tenha criado a pesquisa de preço, poderá obter mais informações clicando <a href="/2025-ManualSGSE/prestacao-contas/PDDE/pesquisa-preco/criarPesquisa/">aqui</a>.
 <br><br> 
 </p>
 <figure>
@@ -14,7 +14,7 @@
 <blockquote style="margin: 1em 0;">
   <strong>Observação:</strong> Caso o fornecedor já esteja cadastrado, basta digitar o CPF ou CNPJ; os demais campos serão preenchidos automaticamente. 
   Para mais informações sobre o cadastro do fornecedor, clique 
-  <a href="/prestacao-contas/fornecedores/">aqui</a>.
+  <a href="/2025-ManualSGSE/prestacao-contas/fornecedores/">aqui</a>.
 </blockquote>
 
 <figure style="margin: 1em 0;">
@@ -84,5 +84,5 @@ Para adicionar um item à pesquisa, clique em <strong>"Adicionar Item"</strong>.
 </figure>
 
 <p align="justify">
-Após a inserção de todos os itens e valores necessários, a pesquisa de preço pode, caso tudo esteja em conformes, ser consolidada. Para mais informações sobre consolidação de pesquisa de preço, clique <a href="/prestacao-contas/pdde/pesquisa-preco/consolidacaoPesquisa/">aqui</a>.
+Após a inserção de todos os itens e valores necessários, a pesquisa de preço pode, caso tudo esteja em conformes, ser consolidada. Para mais informações sobre consolidação de pesquisa de preço, clique <a href="/2025-ManualSGSE/prestacao-contas/PDDE/pesquisa-preco/consolidacaoPesquisa/">aqui</a>.
 </p>

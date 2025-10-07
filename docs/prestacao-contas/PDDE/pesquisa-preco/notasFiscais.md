@@ -1,5 +1,5 @@
 <p align="justify">
-Após a consolidação da pesquisa de preços, você poderá anexar as notas fiscais dos itens adicionados. Caso a pesquisa ainda não tenha sido consolidada, recomenda-se consultar o tutorial de consolidação clicando <a href="/prestacao-contas/PDDE/pesquisa-preco/consolidacaoPesquisa/">aqui</a>.
+Após a consolidação da pesquisa de preços, você poderá anexar as notas fiscais dos itens adicionados. Caso a pesquisa ainda não tenha sido consolidada, recomenda-se consultar o tutorial de consolidação clicando <a href="/2025-ManualSGSE/prestacao-contas/PDDE/pesquisa-preco/consolidacaoPesquisa/">aqui</a>.
 
 <br><br>
 

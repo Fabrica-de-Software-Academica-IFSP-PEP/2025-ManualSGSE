@@ -24,5 +24,5 @@ Para cadastrar um fornecedor, clique em <strong>"Cadastrar Fornecedor"</strong> 
 </figure>
 
 <p align="justify">
-Por fim, após o cadastro do fornecedor, ele poderá ser associado a uma pesquisa de preço. Para mais informações sobre pesquisas de preços, clique <a href="/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>
+Por fim, após o cadastro do fornecedor, ele poderá ser associado a uma pesquisa de preço. Para mais informações sobre pesquisas de preços, clique <a href="/2025-ManualSGSE/prestacao-contas/PDDE/pesquisa-preco/realizarPesquisa/">aqui</a>
 </p>
