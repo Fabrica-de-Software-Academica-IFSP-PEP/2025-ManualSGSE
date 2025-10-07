@@ -1,7 +1,7 @@
 <p align="justify">
 Para cadastrar um novo PDDE, é necessário que a conta bancária já esteja previamente registrada no sistema. 
 Se ainda não houver uma conta cadastrada, acesse as instruções
-<a href="/prestacao-contas/contas-bancarias/">aqui</a>.
+<a href="/2025-ManualSGSE/prestacao-contas/contas-bancarias/">aqui</a>.
 </p>
 
 <p align="justify">
@@ -43,6 +43,7 @@ Após garantir o cadastro da conta bancária, siga os seguintes passos abaixo:
 <p align="justify">
 Por fim, após o cadastro do PDDE, poderá ser realizada a criação de pesquisas de preços. Caso queira saber mais em como criar uma pesquisa de preço, clique <a href="/prestacao-contas/PDDE/pesquisa-preco/criarPesquisa/">aqui</a>
 </p>
+
 
 
 
