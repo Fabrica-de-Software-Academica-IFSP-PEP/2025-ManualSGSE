@@ -4,8 +4,9 @@ Esta seção permite visualizar os formulários respondidos para os alunos. Os n
 ## Visualizar Respostas de Formulários
 
 > 1. Para visualizar as respostas dos formulários de um aluno, selecione o aluno desejado e clique no botão "Formulários".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/aluno/form.png)
 > Todos os formulários respondidos para o aluno serão exibidos na página abaixo. Para localizar um formulário específico, utilize o campo de pesquisa, que permite buscar por título, data ou nome do professor responsável pela resposta.
-> <!-- colocar imagem -->
+> ![Image](../../img/re/aluno/filtro_form.png)
 >
 > 2. Para visualizar os dados de um determinado formulário, selecione-o e clique em "Detalhar'".
+> ![Image](../../img/re/aluno/detalhar.png)

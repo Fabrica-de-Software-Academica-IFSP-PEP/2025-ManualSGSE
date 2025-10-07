@@ -4,23 +4,22 @@ Esta seção permite a visualização dos alunos. O acesso é permitido para os 
 ## Visualizar Alunos
 
 Na aba de "Alunos", esta é a visualização de todos os alunos para o **Supervisor**: 
-<!-- colocar imagem -->
+![Image](../../img/re/aluno/visao_admin.png)
 
 Na aba de "Alunos", esta é a visualização de todos os alunos para o **Diretor** e **Escriturário**: 
-<!-- colocar imagem -->
+![Image](../../img/re/aluno/visao_dir.png)
 
 Na aba de "Alunos", esta é a visualização de todos os alunos para o **Coordenador**: 
-<!-- colocar imagem -->
+![Image](../../img/re/aluno/visao_cor.png)
 
 O **Supervisor** pode filtrar alunos de uma escola específica.
-<!-- colocar imagem -->
+![Image](../../img/re/aluno/filtro_escola.png)
 
 Para localizar um aluno específico, utilize o campo de pesquisa, que permite buscar pelo seu nome, RA ou turma.
-<!-- colocar imagem -->
+![Image](../../img/re/aluno/filtro_aluno.png)
 
 Para visualizar os alunos inativos ou não matriculados, basta habilitar os campos indicados na imagem abaixo.
-<!-- colocar imagem -->
-
+![Image](../../img/re/aluno/filtro_switch.png)
 
 ## Ações disponíveis:
 

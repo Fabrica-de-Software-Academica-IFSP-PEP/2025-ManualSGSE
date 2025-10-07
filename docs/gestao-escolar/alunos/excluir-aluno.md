@@ -4,9 +4,9 @@ Esta seção permite a exclusão de alunos somente quando não estiverem matricu
 ## Excluir Aluno
 
 > 1. Para excluir, selecione o aluno desejado e clique no botão "Excluir".
-> <!-- colocar imagem -->
-    
+> ![Image](../../img/re/aluno/exclusao.png)
+
 > 2. Para concluir a ação clique no botão "Confirmar". Caso Contrário, clique em "Cancelar".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/aluno/conf_del.png)
 
 Pronto, o aluno foi excluído.
