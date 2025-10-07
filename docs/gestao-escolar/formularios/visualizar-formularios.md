@@ -3,18 +3,14 @@ Esta seção permite o acesso aos formulários. Todos os níveis de acesso têm 
 
 ## Visualizar Formulários
 
-Na aba de "Formulários", esta é a visualização de todos os formulários para o **Supervisor** e **Coordenador**: 
-<!-- colocar imagem -->
+Na aba de "Formulários", esta é a visualização de todos os formulários para o **Supervisor**, **Coordenador**, **Diretor** e **Escriturário**: 
+![Image](../../img/re/formularios/visao_diretor.png)
 
-Na aba de "Formulários", esta é a visualização de todos os formulários para o **Diretor** e **Escriturário**: 
-<!-- colocar imagem -->
-
-Na aba de "Formulários", esta é a visualização de todos os formulários para o **Professor**: 
-<!-- DEPOIS FALAR SOBRE -->
+<!-- Na aba de "Formulários", esta é a visualização de todos os formulários para o **Professor**: 
+DEPOIS FALAR SOBRE -->
 
 Para localizar um formulário específico, utilize o campo de pesquisa, que permite buscar pelo seu título, data de criação ou servidor responsável.
-<!-- colocar imagem -->
-
+![Image](../../img/re/formularios/formulario_filtro.png)
 
 ## Ações disponíveis:
 

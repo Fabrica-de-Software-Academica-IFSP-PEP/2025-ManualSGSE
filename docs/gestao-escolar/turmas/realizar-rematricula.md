@@ -12,16 +12,16 @@ Os níveis de **Supervisor**, **Diretor** e **Escriturário** estão autorizados
 ## Rematricular Alunos
 
 > 1. Selecione a turma desejada e clique no botão "Realizar Rematrícula".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/turma/reamatricula_turma1.png)
   
 > 2. Para selecionar toda a turma para rematrícula, utilize a opção destacada ao lado da coluna RA. Caso prefira rematricular alunos individualmente, selecione as opções ao lado de seus respectivos nomes.  
-> Importante: para que a rematrícula da turma inteira seja possível, todos os alunos devem estar com a mesma situação — *Aprovado* ou *Reprovado*. Uma alternativa viável é rematricular primeiro os alunos reprovados individualmente, e em seguida realizar a rematrícula coletiva dos aprovados. 
-> <!-- colocar imagem -->
+> ***Importante***: para que a rematrícula da turma inteira seja possível, todos os alunos devem estar com a mesma situação — *Aprovado* ou *Reprovado*. Uma alternativa viável é rematricular primeiro os alunos reprovados individualmente, e em seguida realizar a rematrícula coletiva dos aprovados. 
+> ![Image](../../img/re/turma/rematricula_turma2.png)
 
-> 3. Selecione uma turma disponível clicando sobre ela e, em seguida, clique no botão "Confirmar" para prosseguir com a rematrícula. Caso não deseje continuar, clique em "Cancelar".
-> <!-- colocar imagem -->
+> 3. Selecione uma turma disponível clicando sobre ela e, em seguida, clique no botão "Confirmar" para prosseguir com a rematrícula. Caso não deseje continuar, clique em "Cancelar". ***Importante***: Uma turma disponivel é uma turma do proximo ano, podendo ser do mesmo nivel de escolaridade para alunos reprovados ou de nivel superior para alunos aprovados. 
+> ![Image](../../img/re/turma/rematricula_turma3.png)
 
 > 4. Será exibida uma lista com os alunos que serão rematriculados para a turma do ano seguinte. Para efetivar a rematrícula, clique no botão "Confirmar". Caso decida não prosseguir, clique em "Cancelar" para interromper o processo.
-> <!-- colocar imagem -->
+> ![Image](../../img/re/turma/rematricula_turma4.png)
 
 > Pronto, a rematrícula foi realizada.

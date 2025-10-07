@@ -8,9 +8,9 @@ Este relatório é disponibilizado por unidade escolar. O perfil de **Supervisor
 Os níveis de **Diretor** e **Escriturário** têm acesso à lista completa de beneficiários vinculados à sua escola, podendo também consultar os dados de uma turma específica, conforme necessário.
 
 > 1. Clique no botão "Relatório de Beneficiários do Bolsa Família".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/beneficiario1.png)
 
 > 2. Selecione a opção desejada e clique em "Abrir"
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/beneficiario2.png)
 
 > Pronto, o relatório estará disponível.

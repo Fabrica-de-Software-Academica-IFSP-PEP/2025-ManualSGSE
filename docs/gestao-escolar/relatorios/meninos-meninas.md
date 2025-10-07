@@ -8,9 +8,9 @@ Este relatório é disponibilizado por unidade escolar. O perfil de **Supervisor
 Os níveis de **Diretor** e **Escriturário** têm acesso à lista completa de meninos e meninas vinculados à sua escola, podendo também consultar os dados de uma turma específica, conforme necessário.
 
 > 1. Clique no botão "Quantidade de Meninos e Meninas".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/meninos_meninas1.png)
 
 > 2. Selecione a opção desejada e clique em "Abrir"
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/meninos_meninas2.png)
 
 > Pronto, o relatório estará disponível.

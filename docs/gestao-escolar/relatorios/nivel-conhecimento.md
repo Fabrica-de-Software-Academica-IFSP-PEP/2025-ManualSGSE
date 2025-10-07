@@ -6,9 +6,9 @@ Esta seção permite o acesso aos Relatórios. Os níveis de **Diretor** e **Esc
 Apenas os níveis de **Diretor** e **Escriturário** têm acesso a esse relatório. Para consultá-lo, é necessário selecionar previamente a turma sobre a qual desejam obter informações.
 
 > 1. Clique no botão "Nível de Conhecimento dos Alunos".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/conhecimento1.png)
 
 > 2. Selecione a opção desejada e clique em "Abrir"
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/conhecimento2.png)
 
 > Pronto, o relatório estará disponível.

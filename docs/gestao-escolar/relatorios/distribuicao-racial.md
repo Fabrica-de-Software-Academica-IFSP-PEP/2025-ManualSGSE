@@ -8,9 +8,9 @@ O perfil de **Supervisor** tem acesso à lista completa de distribuição racial
 Os níveis de **Diretor** e **Escriturário** têm acesso à lista de distribuição racial dos alunos vinculados exclusivamente à sua escola.
 
 > 1. Clique no botão "Distribuição Racial dos Alunos".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/distribuicao_racial1.png)
 
 > 2. Selecione a opção desejada e clique em "Abrir"
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/distribuicao_racial2.png)
 
 > Pronto, o relatório estará disponível.

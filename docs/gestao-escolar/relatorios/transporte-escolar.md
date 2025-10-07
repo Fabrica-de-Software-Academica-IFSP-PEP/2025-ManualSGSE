@@ -8,9 +8,9 @@ Este relatório é disponibilizado por unidade escolar e apresenta a lista de al
 Os níveis de **Diretor** e **Escriturário** têm acesso à relação completa de alunos de todas as turmas que utilizam o serviço, podendo também consultar os dados de uma turma específica, conforme necessário.
 
 > 1. Clique no botão "Relatório de Transporte Escolar".
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/transporte1.png)
 
 > 2. Selecione a opção desejada e clique em "Abrir"
-> <!-- colocar imagem -->
+> ![Image](../../img/re/relatorio/transporte2.png)
 
 > Pronto, o relatório estará disponível.

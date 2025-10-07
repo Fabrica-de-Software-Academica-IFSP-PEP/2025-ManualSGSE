@@ -4,16 +4,16 @@ Esta seção permite a visualização das turmas. O acesso é permitido para os 
 ## Visualizar Turmas
 
 Na aba de "Turmas", esta é a visualização de todos as turmas para o **Supervisor**: 
-<!-- colocar imagem -->
+![Image](../../img/re/turma/visao_turma1.png)
 
 Na aba de "Turmas", esta é a visualização de todos os alunos para o **Diretor** e **Escriturário**: 
-<!-- colocar imagem -->
+![Image](../../img/re/turma/visao_turma2.png)
 
 O **Supervisor** pode filtrar turmas de uma escola específica.
-<!-- colocar imagem -->
+![Image](../../img/re/turma/filtro_turma1.png)
 
-Para localizar uma turma específica, utilize os filtros de Escola e Docente.
-<!-- colocar imagem -->
+Para localizar uma turma específica, utilize os filtros de Escola e/ou Docente.
+![Image](../../img/re/turma/filtro_turma.png)
 
 ## Ações disponíveis:
 
