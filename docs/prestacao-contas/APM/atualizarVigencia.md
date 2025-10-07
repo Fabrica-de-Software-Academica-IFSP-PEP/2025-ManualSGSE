@@ -46,7 +46,7 @@ Após finalizar a atualização, clique em <strong>"Atualizar Vigência"</strong
 
 <figure style="margin: 0.5em 0;">
     <img src="../../../img/pc/apm/atualizar-vigencia/DialogAtualizar.png">
-    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 4: Adicionar novo membro à APM.</figcaption>
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 5: Adicionar novo membro à APM.</figcaption>
 </figure>
 
 
