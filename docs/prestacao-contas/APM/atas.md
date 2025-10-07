@@ -12,8 +12,8 @@ Na tela <strong>"Atas"</strong> no menu principal, é possível acessá-las, bem
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Atas.</figcaption>
 </figure>
 
+## <span style="font-size:20px;"><strong>Criar Atas</strong></span>
 
-**Criar uma Ata**
 <p align="justify">
 Para criar uma ata, clique em <strong>"Cadastrar Ata"</strong> e preencha os campos.
 O campo <strong>"Modo"</strong> define a forma como a ata será inserida no sistema, que pode ser feita de duas maneiras:
@@ -42,7 +42,7 @@ O campo <strong>"Modo"</strong> define a forma como a ata será inserida no sist
 Após preencher todos os campos, clique em <strong>"Salvar"</strong> para concluir o registro da ata no sistema.
 </p>
 
-**Exportar Atas**
+## <span style="font-size:20px;"><strong>Exportar Atas</strong></span>
 
 <p align="justify">
 Para exportar as atas, selecione o ano desejado no campo <strong>"Ano"</strong> e clique em <strong>"Gerar Relatório"</strong>. Assim, todas as atas referentes ao período escolhido serão exportadas.
