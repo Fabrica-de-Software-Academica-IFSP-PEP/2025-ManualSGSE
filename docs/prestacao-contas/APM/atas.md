@@ -12,45 +12,89 @@ Na tela <strong>"Atas"</strong> no menu principal, é possível acessá-las, bem
     <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Atas.</figcaption>
 </figure>
 
-## <span style="font-size:20px;"><strong>Criar Atas</strong></span>
+## <span style="font-size:20px;"><strong>Registrar Atas</strong></span>
 
 <p align="justify">
-Para criar uma ata, clique em <strong>"Cadastrar Ata"</strong> e preencha os campos.
-O campo <strong>"Modo"</strong> define a forma como a ata será inserida no sistema, que pode ser feita de duas maneiras:
+Para proceder ao registro de uma ata, clique em <strong>"Registrar Ata"</strong> (Figura 2) e preencha os campos descritos a seguir:
 </p>
 
-<ol align="justify">
+<ul align="justify">
     <li>
-        <strong>Anexar Ata:</strong> ao selecionar este modo, o usuário deve anexar um arquivo de ata salvo em seu computador (Figura 2).
+        <strong>Descrição:</strong>
+        informe a denominação que identificará o documento no sistema.
     </li>
     <li>
-        <strong>Escrever Ata:</strong> nesse modo, o sistema permite que o usuário redija a ata diretamente na própria plataforma (Figura 3).
+        <strong>Tipo:</strong>
+        selecione a natureza da ata: "Convocação", "Ordinária" ou "Extraordinária".
     </li>
-</ol>
+    <li>
+        <strong>Data:</strong>
+        indique a data de realização da reunião ou convocação.
+    </li>
+    <li>
+        <strong>Upload de Documento:</strong>
+        anexe o arquivo da ata devidamente assinada e digitalizada.
+    </li>
+</ul>
+
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../../img/pc/apm/atas/EnviarAta.png" style="border: 2px solid black;">
-    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Modo Enviar Ata.</figcaption>
-</figure>
-
-<figure style="margin: 0.5em 0;">
-    <img src="../../../img/pc/apm/atas/EscreverAta.png" style="border: 2px solid black;">
-    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 3: Modo Escrever Ata.</figcaption>
+    <img src="../../../img/pc/apm/atas/RegistrarAtas.png">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Registrar Ata.</figcaption>
 </figure>
 
 <p align="justify">
 Após preencher todos os campos, clique em <strong>"Salvar"</strong> para concluir o registro da ata no sistema.
 </p>
 
+## <span style="font-size:20px;"><strong>Escrever Atas</strong></span>
+
+<p align="justify">
+O sistema permite a elaboração de atas diretamente na plataforma. Para isso, clique em <strong>"Escrever Ata"</strong> (Figura 3). Em seguida, a guia atual será automaticamente direcionada para a área de criação de ata.
+</p>
+
+<figure style="margin: 0.5em 0;">
+    <img src="../../../img/pc/apm/atas/EscreverAta.png">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 3: Escrever Ata.</figcaption>
+</figure>
+
+<p align="justify">
+Para elaborar a ata, preencha os campos a seguir:
+</p>
+
+<ul>
+    <li>
+        <strong>Título:</strong>
+        informe o título que identificará a ata.
+    </li>
+    <li>
+        <strong>Cargos para Assinatura:</strong>
+        selecione todos os cargos cujos titulares devem assinar o documento. O sistema identificará automaticamente os membros correspondentes a cada cargo e os vinculará à ata.
+    </li>
+    <li>
+        <strong>Conteúdo (Folha A4):</strong>
+        insira o texto completo da ata.
+    </li>
+</ul>
+
+<p align="justify">
+Após o preenchimento dos campos, clique em <strong>"Gerar PDF"</strong> e então o modelo da ata será gerado (Figura 4).  
+</p>
+
+<figure style="margin: 0.5em 0;">
+    <img src="../../../img/pc/apm/atas/GerarAta.png">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 4: Gerar Ata.</figcaption>
+</figure>
+
 ## <span style="font-size:20px;"><strong>Exportar Atas</strong></span>
 
 <p align="justify">
-Para exportar as atas, selecione o ano desejado no campo <strong>"Ano"</strong> e clique em <strong>"Gerar Relatório"</strong>. Assim, todas as atas referentes ao período escolhido serão exportadas.
+Para exportar as atas, selecione o ano desejado no campo <strong>"Ano"</strong> e clique em <strong>"Gerar Relatório"</strong>. Assim, todas as atas referentes ao período escolhido serão exportadas (Figura 5).
 </p>
 
 <figure style="margin: 0.5em 0;">
     <img src="../../../img/pc/apm/atas/Exportar.png" style="border: 2px solid black;">
-    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 4: Exportar Atas.</figcaption>
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 5: Exportar Atas.</figcaption>
 
 </figure>
 

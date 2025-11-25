@@ -1,6 +1,6 @@
 <p align="justify">
-Após criar um PDDE, clique no botão <strong>“Pesquisa de Preço”</strong>. 
-Esse botão lhe direcionará para a tela de cadastro de pesquisa de preço, que lista todas as pesquisas relacionadas ao PDDE selecionado.
+Após criar um PDDE, clique no botão <strong>“Pesquisa de Preço”</strong> (Figura 1). 
+Esse botão lhe direcionará para a tela de cadastro de pesquisa de preço (Figura 2), que lista todas as pesquisas relacionadas ao PDDE selecionado.
 </p>
 
 
@@ -14,6 +14,11 @@ Se ainda não sabe como criar um PDDE, consulte a página de cadastrar PDDE clic
     <figcaption>Figura 1: Botão "Pesquisa de Preço".</figcaption>
 </figure>
 
+<figure>
+    <img src="../../../../img/pc/pdde/criar-pesquisa/TelaPesquisa.png" style="border: 2px solid black;">
+    <figcaption>Figura 2: Tela Cadastro Pesquisa de Preço.</figcaption>
+</figure>
+
 
 <p align="justify">
 Após ser direcionado a nova tela, siga os seguintes passos:
@@ -21,14 +26,14 @@ Após ser direcionado a nova tela, siga os seguintes passos:
 
 <ol>
   <li>
-    Cadastre um programa. Um programa pode ser cadastrado no botão <strong>"Cadastrar Programa"</strong>. Para mais informações sobre os programas, clique <a href="/2025-ManualSGSE/prestacao-contas/contas-bancarias/">aqui.</a>
+    Cadastre um programa. Um programa pode ser cadastrado no botão <strong>"Cadastrar Programa"</strong> (Figura 3). Para mais informações sobre os programas, clique <a href="/2025-ManualSGSE/prestacao-contas/contas-bancarias/">aqui.</a>
     <figure>
-      <img src="../../../../img/pc/pdde/criar-pesquisa/BotaoPrograma.png" style="border: 2px solid black;">
-      <figcaption>Figura 2: Botão Cadastrar Programa.</figcaption>
+      <img src="../../../../img/pc/pdde/criar-pesquisa/BotaoPrograma.png">
+      <figcaption>Figura 3: Cadastrar Programa.</figcaption>
     </figure>
   </li>
  <li>
-  Após cadastrar o programa, clique em <strong>"Cadastrar Pesquisa"</strong>. Isso abrirá uma nova janela.
+  Após cadastrar o programa, clique em <strong>"Cadastrar Pesquisa"</strong>. Isso abrirá uma nova janela (Figura 4).
   Preencha os seguintes campos:
   <ul>
     <li><strong>Programa:</strong> selecione o programa ao qual a pesquisa será destinada.</li>
@@ -36,12 +41,8 @@ Após ser direcionado a nova tela, siga os seguintes passos:
     <li><strong>Tipo:</strong> especifique se a pesquisa de preço é de bens ou de serviços.</li>
   </ul> 
     <figure>
-      <img src="../../../../img/pc/pdde/criar-pesquisa/BotaoAddPesquisa.png" style="border: 2px solid black;">
-      <figcaption>Figura 3: Botão "Cadastrar Pesquisa".</figcaption>
-    </figure>
-    <figure>
-      <img src="../../../../img/pc/pdde/criar-pesquisa/DadosPesquisa.png" style="border: 2px solid black;">
-      <figcaption>Figura 4: Dialog Cadastrar Pesquisa de Preço.</figcaption>
+      <img src="../../../../img/pc/pdde/criar-pesquisa/DialogPesquisa.png">
+      <figcaption>Figura 4: Cadastrar Pesquisa.</figcaption>
     </figure>
   </li>
 </ol>

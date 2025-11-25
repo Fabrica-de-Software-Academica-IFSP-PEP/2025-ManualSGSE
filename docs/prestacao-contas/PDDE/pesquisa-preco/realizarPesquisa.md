@@ -8,7 +8,7 @@
 
 ## <span style="font-size:20px;"><strong>Adicionar Proponentes</strong></span>
 
-<p align="justify"> Para incluir os proponentes na pesquisa, clique em <strong>"Adicionar"</strong> e preencha os campos solicitados. Lembre-se de que é necessário cadastrar três proponentes.
+<p align="justify"> Para incluir os proponentes na pesquisa, clique em <strong>"Adicionar"</strong> (Figura 2) e preencha os campos solicitados. Lembre-se de que é necessário cadastrar três proponentes.
 </p>
 
 <blockquote style="margin: 1em 0;">
@@ -18,7 +18,7 @@
 </blockquote>
 
 <figure style="margin: 1em 0;">
-  <img src="../../../../img/pc/pdde/realizar-pesquisa/AddProponente.png" style="border: 2px solid black;">
+  <img src="../../../../img/pc/pdde/realizar-pesquisa/AddProponente.png">
   <figcaption>Figura 2: Associar Proponente à pesquisa de preço.</figcaption>
 </figure>
 
@@ -36,14 +36,14 @@
 </p>
 
 <figure style="margin: 1em 0;">
-  <img src="../../../../img/pc/pdde/realizar-pesquisa/BotoesProponente.png" style="border: 2px solid black;">
+  <img src="../../../../img/pc/pdde/realizar-pesquisa/BotoesProponente.png">
   <figcaption>Figura 4: Botões de ação.</figcaption>
 </figure>
 
 ## <span style="font-size:20px;"><strong>Adicionar Itens</strong></span>
 
 <p align = "justify">
-Para adicionar um item à pesquisa, clique em <strong>"Adicionar Item"</strong>. Será aberta uma janela com os seguintes campos:
+Para adicionar um item à pesquisa, clique em <strong>"Adicionar Item"</strong> (Figura 5). Será aberta uma janela com os seguintes campos:
 </p>
 
 <ul style="text-align: justify;">
@@ -54,20 +54,20 @@ Para adicionar um item à pesquisa, clique em <strong>"Adicionar Item"</strong>.
 </ul>
 
 <figure style="margin: 1em 0;">
-  <img src="../../../../img/pc/pdde/realizar-pesquisa/AddItem.png" style="border: 2px solid black;">
+  <img src="../../../../img/pc/pdde/realizar-pesquisa/AddItem.png">
   <figcaption>Figura 5: Tela Adicionar Item.</figcaption>
 </figure>
 
-<p align="justify"> Após inserir o item, informe o valor de <strong>varejo</strong> do item para cada proponente.
+<p align="justify"> Após inserir o item, informe o valor de <strong>varejo</strong> do item para cada proponente (Figura 6).
 </p>
 
 <figure style="margin: 1em 0;">
-  <img src="../../../../img/pc/pdde/realizar-pesquisa/AddValor.png" style="border: 2px solid black;">
+  <img src="../../../../img/pc/pdde/realizar-pesquisa/AddValor.png">
   <figcaption>Figura 6: Adicionado o valor ao item.</figcaption>
 </figure>
 
 
-<p align="justify"> Caso queira <strong>Editar</strong> ou <strong>Excluir</strong> um item, selecione a linha do item na tabela e clique no botão <strong>"Editar"</strong> ou <strong>"Excluir"</strong>.
+<p align="justify"> Caso queira <strong>Editar</strong> ou <strong>Excluir</strong> um item, selecione a linha do item na tabela e clique no botão <strong>"Editar"</strong> ou <strong>"Excluir"</strong> (Figura 7).
 </p>
 
   <figure style="margin: 1em 0;">
@@ -75,12 +75,21 @@ Para adicionar um item à pesquisa, clique em <strong>"Adicionar Item"</strong>.
     <figcaption>Figura 7: Editar/Excluir um item.</figcaption>
 </figure>
 
-<p align="justify">  Além disso, é possível acompanhar, caso queira, a relação dos valores dos itens adicionados entre custeio e capital de cada proponente, afim de controle de custos.
+<p align="justify">
+Mas, caso precise mudar o valor do item, clique no ícone de <strong>"Lápis"</strong> para editar ou na <strong>"Lixeira"</strong> para excluir (Figura 8).
+<p>
+
+<figure style="margin: 1em 0;">
+    <img src="../../../../img/pc/pdde/realizar-pesquisa/MudarValor.png" style="border: 2px solid black;">
+    <figcaption>Figura 8: Editar valor de um item.</figcaption>
+</figure>
+
+<p align="justify">  Além disso, é possível acompanhar, caso queira, a relação dos valores dos itens adicionados entre custeio e capital de cada proponente, afim de controle de custos (Figura) 9.
 </p>
 
 <figure style="margin: 1em 0;">
   <img src="../../../../img/pc/pdde/realizar-pesquisa/DialogItens.png" style="border: 2px solid black;">
-  <figcaption>Figura 8: Dialog de controle de custos.</figcaption>
+  <figcaption>Figura 9: Tela de controle de custos.</figcaption>
 </figure>
 
 <p align="justify">

@@ -3,17 +3,12 @@ Após a consolidação da pesquisa de preços, você poderá anexar as notas fis
 
 <br><br>
 
-Se a pesquisa já estiver consolidada, clique no botão <strong>"Notas Fiscais"</strong> (Figura 1) para acessar a tela de notas fiscais (Figura 2).
+Se a pesquisa já estiver consolidada, clique no botão <strong>"Notas Fiscais"</strong> para acessar a tela de notas fiscais (Figura 1).
 </p>
 
 <figure style="margin: 0.5em 0;">
-    <img src="../../../../img/pc/pdde/notas-fiscais/BotaoNotasFiscais.png" style="border: 2px solid black;">
-    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Botão Notas Fiscais</figcaption>
-</figure>
-
-<figure style="margin: 0.5em 0;">
-    <img src="../../../../img/pc/pdde/notas-fiscais/TelaInicial.png" style="border: 2px solid black;">
-    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 2: Tela Notas Fiscais</figcaption>
+    <img src="../../../../img/pc/pdde/notas-fiscais/TelaInicial.png">
+    <figcaption style="margin-top: 0.3em; text-align: center;">Figura 1: Tela Notas Fiscais</figcaption>
 </figure>
 
 ## <span style="font-size:20px;"><strong>Adicionar Nota Fiscal</strong></span>

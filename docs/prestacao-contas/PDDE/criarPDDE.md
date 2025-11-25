@@ -10,7 +10,7 @@ Após garantir o cadastro da conta bancária, siga os seguintes passos abaixo:
 
 <ol>
   <li>
-    Clique no botão <strong>"Cadastrar PDDE"</strong>:
+    Clique no botão <strong>"Cadastrar PDDE"</strong> (Figura 1):
      <br><br>
     <figure style="margin: 0.5em 0;">
       <img src="../../../img/pc/pdde/criar-pdde/BotaoCadastrar.png" style="border: 2px solid black;">
@@ -31,7 +31,7 @@ Após garantir o cadastro da conta bancária, siga os seguintes passos abaixo:
   </li>
 
   <li>
-    Por fim, verifique se todos os campos obrigatórios foram preenchidos corretamente e clique em <strong>Confirmar</strong> para finalizar o cadastro.
+    Por fim, verifique se todos os campos obrigatórios foram preenchidos corretamente e clique em <strong>Confirmar</strong> para finalizar o cadastro (Figura 2).
     <br><br>
     <figure style="margin: 0.5em 0;">
       <img src="../../../img/pc/pdde/criar-pdde/DialogCadastrar.png" style="border: 2px solid black;">
